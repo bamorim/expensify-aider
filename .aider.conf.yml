@@ -1,0 +1,5 @@
+openai-api-base: https://api.z.ai/api/coding/paas/v4
+model: openai/glm-4.6
+weak-model: openai/glm-4.5-air
+show-model-warnings: false
+read: ["AGENTS.md"]
